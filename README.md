@@ -16,3 +16,4 @@ Talha's shopping list
 > to be or not to be
 
 If you want to make a link just  do this [the world's worst website](http://www.baidu.com)
+![troll](http://baidu.com)
